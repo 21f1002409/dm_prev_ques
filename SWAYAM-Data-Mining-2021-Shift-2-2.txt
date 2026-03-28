@@ -182,7 +182,7 @@ Self Organising maps are an example of:
 1. Unsupervised learning
 2. Supervised learning
 
-3. Reinforcement fearning
+3. Reinforcement learning
 4, Missing data imputation
 
 Options :
@@ -306,7 +306,7 @@ k-nearest neighbor is one of the
 2. OLAP tool
 
 3. Purest search technique
-4, Data warehousing toal
+4, Data warehousing tool
 
 Options :
 
@@ -586,7 +586,7 @@ Question Number : 29 Question Id ; 51245217079 Question Type : MCQ Option Shuffl
 Correct Marks : 1 Wrong Marks : 0
 
 [Page 16]
-The second phaase of A Priori algorithm is
+The second phase of A Priori algorithm is
 
 1. Candidate generation
 2. Itemset generation
@@ -727,7 +727,7 @@ Multi-dimensional knowledge is
 
 1. A class of learning algorithms that try to derive a Prolog program from examples
 2. A table with n independent attributes can be seen as an n-dimensional space
-3. A prediction made using an extremely simple method, such as always predicting the sare
+3. A prediction made using an extremely simple method, such as always predicting the same
 
 output
 4, None of the above
@@ -964,7 +964,7 @@ Options :
 Question Number : 48 Question Id : 51245217098 Question Type : MCQ Option Shuffling : No Is Question Mandatory : No
 Correct Marks : 1 Wrong Marks : 0
 
-The core of the multidimensional model is the «nee, Which consists of a large set of
+The core of the multidimensional model is the data cube, which consists of a large set of
 
 facts and a number of dimensions,
 
@@ -1180,7 +1180,7 @@ Question Number : 59 Question Id : 51245217109 Question Type : MCQ Option Shuffl
 Correct Marks : 1 Wrong Marks : 0
 
 [Page 31]
-An OLAP teal provides for
+An OLAP tool provides for
 
 1. Multidimensional analysis
 2. Roll-up-and drill-down
@@ -1467,7 +1467,7 @@ Correct Marks : 1 Wrong Marks : 0
 
 At which level can we create dimensional models?
 
-|. Detailed modlels level
+|. Detailed models level
 
 2, Architecture models level
 3. Implementation level

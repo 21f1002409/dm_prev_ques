@@ -139,7 +139,7 @@ Correct Marks : 1 Wrong Marks : 0
 is data about data.
 A. Metadata.
 B. Microdata.
-C. Mimidata
+C. Minidata
 D. Multidata.
 
 Question Number : 9 Question Id : 70959711380 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
@@ -453,7 +453,7 @@ Correct Marks : 1 Wrong Marks : 0
 The generalization of cross-tab whichis represented visually is which ts alsocalledas data
 cube.
 a) Two dimensional cube
-+ Mdiniiirens nonartavk-
+b) Multidimensional cube
 c} N-dimensional cube
 d) Cuboid
 
@@ -1215,7 +1215,7 @@ applications
 
 A.Tme
 
-B.Fasle
+B.False
 
 C.May be
 
