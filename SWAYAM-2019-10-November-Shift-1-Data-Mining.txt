@@ -1,0 +1,1225 @@
+
+
+[Page 1]
+National Testing Agency
+
+Question Paper Name: Data Mining 10th November 2019 Shift 1
+Subject Name: Data Mining
+
+Creation Date: 2019-11-10 13:22:32
+
+Duration: 180
+
+Total Marks: 100
+
+Display Marks: Yes
+
+Data Mining
+
+Group Number : 1
+
+Group Id: 709597115
+Group Maximum Duration : 0
+
+Group Minimum Duration : 120
+Revisit allowed for view? : No
+
+Revisit allowed for edit? : No
+
+Break time: 0
+
+Group Marks: 100
+
+Data Mining
+
+Section Id : 709597117
+Section Number : 1
+Section type : Online
+Mandatory or Optional: Mandatory
+Number of Questions: 100
+Number of Questions to be attempted: 100
+Section Marks: 100
+Display Number Panel: Yes
+Group All Questions: No
+Sub-Section Number: 1
+Sub-Section Id: 709597126
+Question Shuffling Allowed : Yes
+
+Question Number : 1 Question Id : 70959711372 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+_A process known as is used by large retailers to study tends.
+A. data mining
+
+B. data selection
+
+C.POS
+
+D. data conversion
+
+Question Number : 2 Question Id : 70959711373 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 2]
+is a subject-oriented, integrated, time-variant, nonvolatile collection of datain
+support of management decisions.
+A. Data Mining.
+B. Data Warehousing.
+C. Web Mining.
+D. Text Mining.
+
+Question Number : 3 Question Id : 70959711374 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-The important aspect of the data warehouse environment ts that data found within the data
+warehouse
+Is :
+A. subject-oriented_
+B. time-variant.
+C. integrated.
+D. All of the above.
+
+Question Number : 4 Question Id : 70959711375 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-The time horizon in Data warehouse ts usually
+A. 1-2 years.
+B. 3-4vears.
+C. 5-6 years.
+D. 5-10 years.
+
+Question Number : 5 Question Id : 70959711376 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Data transformation includes which of the following?
+A. Aprocess to change data from a detailed level to a summary level
+B.A process to change data froma summary level to a detailedlevel
+C. Joining data from one source into various sources of data
+D. Separating data from one source into various sources of data
+
+Question Number : 6 Question Id : 70959711377 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following process includes data cleaning, data integration, data transformation, data selection, data
+mining, pattern evaluation and knowledge presentation?
+A. KDD process
+
+B. ETL process
+
+C_ ETL process
+
+D. None of the above
+
+Question Number : 7 Question Id : 70959711378 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Associationmules are always defined on
+A. Binary attribute.
+B. Single attribute.
+C. Relational database.
+D. Multidimensional attribute.
+
+Question Number : 8 Question Id : 70959711379 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 3]
+is data about data.
+A. Metadata.
+B. Microdata.
+C. Mimidata
+D. Multidata.
+
+Question Number : 9 Question Id : 70959711380 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Capability of data mining is to build models.
+A. Retrospective.
+B. Interrogative.
+C. Predictive.
+D. Imperative.
+
+Question Number : 10 Question Id : 70959711381 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-K-nearest neighbor is one of the
+
+A. leamming technique.
+B. OLAP tool.
+
+C. purest search technique.
+D. data warehousing tool
+
+Question Number : 11 Question Id : 70959711382 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+IndatamingEnrichmentmeans
+A. adding external data.
+B. deleting data.
+C. cleaning data.
+D. selecting the data.
+
+Question Number : 12 Question Id : 70959711383 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Which of the following features usually applies to datain a data warehouse?
+A Data are often deleted
+B. Most applications consist of transactions
+C.Data are rarely deleted
+D. Relatively few records are processed by applications
+
+Question Number : 13 Question Id : 70959711384 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Which of the following statement is true?
+A The data warehouse consists of data marts and operational data
+B.The data warehouse is used as a source for the operational data
+
+C.The operational data are used as a source for the data warehouse
+D.All of the above
+
+Question Number : 14 Question Id : 70959711385 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The following is tue of three-tier data warehouses:
+A Once created, the data marts will keep on being updated from the data warehouse at penodic times
+B.Once created, the data marts will directly receive their new data from the operational databases
+C.The data marts are different groups of tables in the data warehouse
+D_A data mart becomes a data warehouse when itreaches a critical size
+
+[Page 4]
+Question Number : 15 Question Id : 70959711386 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The following technology is not well-suited for data mining:
+
+A-Expert system technology
+
+B.Data visualization
+
+C. Technology limited to specific datatypes such as numeric data types
+D Parallel architecture
+
+Question Number : 16 Question Id : 70959711387 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Whatis tue of the multidimensional model?
+A It typically requires less disk storage
+B_It typically requires more disk storage
+C.Typical business queries requiring aggregate fictions take more time
+D Increasing the size of a dimensionis difficult
+
+Question Number : 17 Question Id : 70959711388 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Data transformation includes which of the following?
+A. Aprocess to change data from a detailedlevel to a summary level
+B.A process to change data from a summary level to a detailedlevel
+C. Joiming data from one source into various sources of data
+D. Separating data from one source into various sources of data
+
+Question Number : 18 Question Id : 70959711389 Question Type: MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+A snowdlake schema is which of the following types of tables?
+A-Fact
+B_Dimension
+C. Helper
+D.All of these
+
+Question Number : 19 Question Id : 70959711390 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Fact tables are which of the following?
+A-Completely denormalized
+B.Partially denormalized
+C.Completely normalized
+D Partially normalized
+
+Question Number : 20 Question Id : 70959711391 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+A star schema has what type ofrelationship between a dimension and fact table?
+Amany tomany
+B.One to one
+C_One to many
+
+D.All of the above
+
+Question Number : 21 Question Id : 70959711392 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 5]
+.Whatis ETL Stand for?
+A Execute tramit andload
+B._Extract transform and load
+C.Excute Transform and load
+
+DAll the above
+
+Question Number : 22 Question Id : 70959711393 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The genetic two-level data warehouse architecture includes which of the following?
+A Atleast one data mart
+B_Data that can extracted from numerous internal and external sources
+C Near real-time updates
+D_All of the above.
+
+Question Number : 23 Question Id : 70959711394 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Data scrubbing is which of the following?
+AA process to reject data fromthe data warehouse and to create thenecessary indexes
+B.A process to load the datain the data warehouse and to create the necessary indexes
+C_A process to upgrade the quality of data after itis moved into a data warehouse
+
+D_A process to upgrade the quality of data before itis moved into a data warehouse
+
+Question Number : 24 Question Id : 70959711395 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The process ofremoving the deficiencies and loopholes in the datais called as
+A. Ageregation of data
+
+B. Extracting of data
+
+C_Cleaning up of data.
+
+D Loading of data
+
+Question Number : 25 Question Id : 70959711396 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+(Which of the following is not relatedto dimension table attributes?
+A Descriptive
+B Equally unavailable
+¢.Complete
+D Indexed.
+
+Question Number : 26 Question Id : 70959711397 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+.Which of the followingis the collection of data objects that are similar to one another within the same group?
+A Partitioning
+
+B. Table
+
+C.Cluster
+
+D_Data source
+
+Question Number : 27 Question Id : 70959711398 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+At which level we can create dimensional models?
+A Business requirements level
+B. Architecture models level
+C Implementation level
+D. Testing level.
+
+[Page 6]
+Question Number : 28 Question Id : 70959711399 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Which one manages both current and historic transactions?
+A.OLTP
+B.OLAP
+C. Spread sheet
+
+D.XML
+
+Question Number : 29 Question Id : 70959711400 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Which of the following is the most important when deciding on the data structure of a data mart?
+A Metadata naming conventions
+
+B Data accesstools to be used
+
+C.Extract, Transform, and Load (ETL) tool to be used
+
+D_All of these
+
+Question Number : 30 Question Id : 70959711401 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+_.15 a summarization of the general characteristics or features of a target class of data
+ie Data Characterization
+B) Data Classification
+C) Data discrimination
+D) Data selection
+
+Question Number : 31 Question Id : 70959711402 Question Type: MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+: = is a comparison of the general features of the target class data objects against the general
+features of objects from one ormultiple contrasting classes.
+A) Data Characterization
+
+B) Data Classification
+
+C) Data discrimination
+
+D) Data selection
+
+Question Number : 32 Question Id : 70959711403 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Strategic value of data miningis 0.00.20...
+A) cost-sensitive
+B) work-sensitive
+C) time-sensitive
+D) technical-sensitive
+
+Question Number : 33 Question Id : 70959711404 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+ie - _is the process of finding a model that describes and distinguishes data classes or concepts.
+A) Data Charac cterization
+B) Data Classification
+C) Data discrimination
+D) Data selection
+
+Question Number : 34 Question Id : 70959711405 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 7]
+Which of the following is not a data mining functionality?
+A) Characterization and Discrimination
+B) Classification andregression
+C) Selection and interpretation
+TY) Clustering and Analysis
+
+Question Number : 35 Question Id : 70959711406 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The generalization of cross-tab whichis represented visually is which ts alsocalledas data
+cube.
+a) Two dimensional cube
++ Mdiniiirens nonartavk-
+c} N-dimensional cube
+d) Cuboid
+
+Question Number : 36 Question Id : 70959711407 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The process of viewing the cross-tab (Single dimensional) with a fixed value of one attribute is
+a) Slicing
+b) Dicing
+c) Pivoting
+d) Both Slicing and Dicing
+
+Question Number : 37 Question Id : 70959711408 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+In Data warehouse Record cannot be updated in
+A. OLTP
+B. files
+Cc. RDBMS
+
+D. data warehouse
+
+Question Number : 38 Question Id : 70959711409 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a descriptive model?
+A. Classification.
+B. Regression.
+C_ Sequence discovery.
+
+D. Association niles.
+
+Question Number : 39 Question Id : 70959711410 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Knowledge is referred to
+A) Non-trivial extraction of implicit previously unknown and potentially useful infonnation from data
+B) Set of columns in a database table that can be used to identify each record within this table uniquely
+C) Collection ofinteresting and useful patterns in a database
+D)none of these
+
+Question Number : 40 Question Id : 70959711411 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 8]
+Cluster is
+A) Group of similar objects that differ significantly from other objects
+B) Operations on a database to ransfomn or simplify datain order to prepare it for a machine-learmming
+algorithm
+C) Symbolic representation of facts or ideas from which information can potentially be extracted
+D) None of these
+
+Question Number : 41 Question Id : 70959711412 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Enrichment means
+A Adding extemal data
+B.Deleting data
+C Cleaning Data
+D. Selecting the data
+
+Question Number : 42 Question Id : 70959711413 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The decision support system is used only for
+A Cleaning
+
+B.Coding
+
+C Selecting
+
+D.queries
+
+Question Number : 43 Question Id : 70959711414 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Deep knowledge can be found only by using
+A.Clues
+
+B.OLAP
+
+C.5QL
+
+D. Algorithm
+
+Question Number : 44 Question Id : 70959711415 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Metadata describes
+
+A Content of database
+
+B. Structure of content of database
+C structure of database
+
+D Database itself
+
+Question Number : 45 Question Id : 70959711416 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The partition of overall data warehouse is
+A Database
+B.Data cube
+C.Data mart
+D_Operational data
+
+Question Number : 46 Question Id : 70959711417 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 9]
+Which oneis an example for case based learning
+A Decision tree
+B_Neural network
+C.Genetic algorithm
+D.K-Nearest neighbor
+
+Question Number : 47 Question Id : 70959711418 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-k-nearest neighbour is one of the
+A _Leaming technique
+B.OLAP tool
+C.Purest search technique
+D.Data warehousing tool
+
+Question Number : 48 Question Id : 70959711419 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The complexity of data mining algorithm is represented by
+Alogn
+B.2nlongn
+Cnlogn
+D.2logn
+
+Question Number : 49 Question Id : 70959711420 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The intermediate unit in perception is
+A.Photoreceptors
+B.Associators
+C. Responders
+D.Receptors
+
+Question Number : 50 Question Id : 70959711421 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+In EDD and data mining noise is referred to as
+A Repeated data
+B.Complex data
+C.Meta data
+D.Random errors in database
+
+Question Number : 51 Question Id : 70959711422 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+With data mining, the best way to accomplish this is by setting aside some of your data in a vault to isolate it
+from the mining process; once the miningis complete, the results can be tested against the isolated datato
+confirm the model's
+A Validity
+B.Security
+C Integrity
+D None of above
+
+Question Number : 52 Question Id : 70959711423 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 10]
+Classification consists of examining the properties of a newly presented observation and assigningit toa
+predefined
+A Object
+B Container
+C. Subject
+D.Class
+
+Question Number : 53 Question Id : 70959711424 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-During business hours, most systems should probably not use parallel execution.
+A.OLAP
+B.DSS
+C.Data Mining
+
+D.OLTP
+
+Question Number : 54 Question Id : 70959711425 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The users of data warehouse are knowledge workers in other words they are in the organization.
+A.Decisionmaker
+B. Manager
+C.Database Administrator
+D.DWH Analyst
+
+Question Number : 55 Question Id : 70959711426 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Multi-dimensional databases (MDDs) typically use formats to store pre-summarized cube structures.
+ASOL
+B.proprietary file
+C.Object onented
+D_Non- proprietary file
+
+Question Number : 56 Question Id : 70959711427 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-Data warehousing and on-line analytical processing (OLAP) are elements of decision support system.
+A Unusual
+B Essential
+C.Optional
+D.None ofthe given
+
+Question Number : 57 Question Id : 70959711428 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Analytical processing uses -instead ofrecordlevel access.
+A multi-level aggregates
+
+B Single-level aggregates
+
+C.Single-level hierarchy
+
+D:None of the Given
+
+Question Number : 58 Question Id : 70959711429 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 11]
+The divide & conquer cube partitioning approach helps alleviate the limitations of MOLAP
+implementation.
+A-Flexibility
+B. Maintainability
+C Security
+D_ Scalability
+
+Question Number : 59 Question Id : 70959711430 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-Data Warehouse provides the best support for analysis while OLAP carries out the task.
+A Mandatory
+B.Whole
+C.Analysis
+D Prediction
+
+Question Number : 60 Question Id : 70959711431 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Data Warehouse provides the best support for analysis while OLAP carries out the task
+A Mandatory
+B_Whole
+C. Analysis
+D.Prediction
+
+Question Number : 61 Question Id : 70959711432 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Jn contrast to statistics, data mining is driven.
+A.Assumption
+B. Knowledge
+C.Human
+D_Database
+
+Question Number : 62 Question Id : 70959711433 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+_As opposed to the outcome of classification, estimation deal with valued outcome.
+A Discrete
+B Isolated
+C.Continuous
+
+D_Distinct
+
+Question Number : 63 Question Id : 70959711434 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+The goal ofideal parallel execution is to completely parallelize those parts of a computation that are not
+constrained by data dependencies. The smaller the portion of the program that must be executed
+, the greater the scalability of the computation.
+A_In Parallel
+B Distributed
+
+C.Sequentialy
+D_None of above
+
+Question Number : 64 Question Id : 70959711435 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 12]
+The most important part of is selecting the variables on which clusteringis based. A interpreting and
+profiling clusters
+B selecting a clustering procedure
+C_assessing the validity of clustering
+D-formulating the clustering problem
+
+Question Number : 65 Question Id : 70959711436 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+is a clustering procedure characterized by the development of a treetike structure.
+A Non-hierarchical clustening
+B. Hierarchical clustering
+C_Divisive clustering
+D_Agglomerative clustering
+
+Question Number : 66 Question Id : 70959711437 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Challenges of clustering includes?
+A. High dimensionality of data
+
+B. Scalability
+C. Noisy data
+D. All of the above
+
+Question Number : 67 Question Id : 70959711438 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Which is nota type of clustering?
+A. Density based
+B. Similarity based
+C. Decision driven
+D. Partition Based
+
+Question Number : 68 Question Id : 70959711439 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Which of the following is not clustering technique?
+A. Agelomerative
+B. Derivative
+C. Partitioning
+
+D. Density Based
+
+Question Number : 69 Question Id : 70959711440 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+In the K-means clustering algorithm the distance between cluster centroid to each objectis calculated using
+..method.
+A. Cluster distance
+B. Euclidean distance
+C. Cluster width
+D. None of above
+
+Question Number : 70 Question Id : 70959711441 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 13]
+k-means clustering is also referredto as ....?
+A. Non-hierarchical clustering
+
+B. Optimizing partitioning
+
+C. Divisive clustering
+
+D. Agglomerative clustering
+
+Question Number : 71 Question Id : 70959711442 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The process of forming general concept definitions from examples of concept to beleamed
+A Deduction
+
+B_Abduction
+
+C Induction
+
+D.Conjunction
+
+Question Number : 72 Question Id : 70959711443 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+ata miming 15 best described as the process ot
+A Identifying patterns data
+B.Deducting relationships in data
+C.Representing data
+D.simulating trends in data
+
+Question Number : 73 Question Id : 70959711444 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Supervised learning and unsupervised clustering both require at least one
+A Hidden attribute
+B_ Input’ output attribute
+C Categorical attribute
+D_All of these
+
+Question Number : 74 Question Id : 70959711445 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+At which level we can create dimensional models?
+A Detailed models level
+B. Architecture models level
+C Implementation level
+D.Testing level.
+
+Question Number : 75 Question Id : 70959711446 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is the collection of data objects that are similar to one another within the same group?
+A Partitioning
+B.Cluster
+C.Table
+D.Data source.
+
+Question Number : 76 Question Id : 70959711447 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+-Which of the following is not an ETL tool?
+ADT’ studio.
+B. Oracle warehouse builder
+C.Datastage
+D_Visual studio
+
+[Page 14]
+Question Number : 77 Question Id : 70959711448 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+- What is/are the different types of Meta data?
+1 Administrative
+II Business
+III. Operational.
+A.Only I
+B_Both (I) and (ID above
+Both (ID) and (IIT) above
+D_All (1), (ID) and (IID above
+
+Question Number : 78 Question Id : 70959711449 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+The apricri property means
+A.To improve the efficiency the level-wise generation of frequent item sets
+B.If a set can passa test, all ofits supersets will fail the same test as well
+C.To decrease the efficiency the level-wise generation of frequent item sets
+D_All of these
+
+Question Number : 79 Question Id : 70959711450 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+An OLAP tool provides for
+A Multidimensional analysis
+B.Roll-up and drill-down
+C Slicing and dicing
+D Rotation
+
+Question Number : 80 Question Id : 70959711451 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Data modeling technique used for data marts is
+A Dimensional modeling
+
+B_ER-model
+
+C_Extended ER —model
+
+D Logical model.
+
+Question Number : 81 Question Id : 70959711452 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+Correct Marks : 1 Wrong Marks : 0
+Business Intelligence (BI) reporting analyses can be perfonned using
+Acstandard SQL only
+B.extensions to SQL only
+C.OLAP only
+D_both standard SQL and extensions to SQL
+
+Question Number : 82 Question Id : 70959711453 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Data mining applications are used accomplish which of the following tasks?
+A.Process transactions only
+
+B.Do RFM analysis only
+
+C.Do what-if analysis only
+). Do both RFM and what-if analysis
+
+Question Number : 83 Question Id : 70959711454 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+[Page 15]
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is an unsupervised data mining technique?
+A Cluster analysis only
+B Regression Analysis only
+C.RFM Analysis only
+
+) Both Regression Analysis and RFM Analysis
+
+Question Number : 84 Question Id : 70959711455 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Jn OLAP, we are interested in
+Alevels only
+B.dimensicns only
+C measures only
+D.measures and dimensions
+
+Question Number : 85 Question Id : 70959711456 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-We have Market Basket data for 1,000 rental transactions at a Video Store. There are four videos for rent —
+Video A, Video B, Video C and Video D. The probability that Video D will be rented given that Video C has
+been rentedis known as
+Athe basic probability
+B.support
+Clit
+
+D.confidence
+
+Question Number : 86 Question Id : 70959711457 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+One popular classification techniquein Business Intelligence (BI) reporting is
+A.cluster analysis only
+B.regression analysis only
+C.RFM analysis only
+D_both cluster analysis and regression analysis
+
+Question Number : 87 Question Id : 70959711458 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which operation mainly used to access the live data online and analyse it
+A-ROLAP
+B.OLAP
+C.MOLAP
+D.HOLAP
+
+Question Number : 88 Question Id : 70959711459 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Jn data mining, the slice operation performs a selection on
+A One dimension
+B.Two dimension
+Mult dimension
+D.None of the above
+
+Question Number : 89 Question Id : 70959711460 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 16]
+Preprocessing step is usedin Datais
+A cleaning
+
+B integration
+
+C transformation
+
+D reduction
+
+Question Number : 90 Question Id : 70959711461 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Total number of stagesin EDD is
+AB
+
+B.4
+
+C4.
+
+D6
+
+Question Number : 91 Question Id : 70959711462 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+.The process of upgrading the existing quality of data beforeitis movedinto a data warehouse is known as
+A_Data Scrubbing
+B Data Polishing
+C Data Auditing
+D Data Aggregation
+
+Question Number : 92 Question Id : 70959711463 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+In OLAP cubes, data (measures) are categorized by
+A Length
+
+B. Angles
+C.Dimensions
+
+D Breadth
+
+Question Number : 93 Question Id : 70959711464 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+An OLAP system is market-oriented and is used for data analysis by knowledge workers, including managers,
+executives, and analysts.
+A.Tme
+B.False
+C_May be
+D.Cant say
+
+Question Number : 94 Question Id : 70959711465 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which oneis not a Data Transformation strategy
+A Aggregation
+B.Normalization
+C..Generalization
+
+D.Compression
+
+Question Number : 95 Question Id : 70959711466 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+[Page 17]
+_A subset of the data warehouse that contains all the data about a particular topic is known as
+A Data Pocket
+B. Metadata
+C.Data Mart
+D_Data Mining
+
+Question Number : 96 Question Id : 70959711467 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+-Which oneis the last step of Data Mart Implementation process
+A Designing
+B.Acessing
+C. Managing
+
+D.Populating
+
+Question Number : 97 Question Id : 70959711468 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+Which oneis not a datareduction strategy
+A Data Generalization
+B Dimension reduction
+C Data compression
+D_Data cube aggregation
+
+Question Number : 98 Question Id : 70959711469 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+.Which oneis a data mining function that assigns items in a collection to target categories or classes
+A Selection
+B. Classification
+C Integration
+D. Reduction
+
+Question Number : 99 Question Id : 70959711470 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Usually yearsis the time horizon in data warehouse
+Al-3
+B.3-5
+C.5-10
+
+D.10-15
+
+Question Number : 100 Question Id : 70959711471 Question Type : MCQ Option Shuffling : No Display Question Number : Yes
+Single Line Question Option : No Option Orientation : Vertical
+
+Correct Marks : 1 Wrong Marks : 0
+
+Operational metadata defines the structure of the data held in operational databases and used byoperational
+applications
+
+A.Tme
+
+B.Fasle
+
+C.May be
+
+D.Can‘t say
+
+[Page 18]
+
